@@ -1,0 +1,10 @@
+C:\Users\LUAN\source\repos\2212410_Lab3\bin\Debug\2212410_Lab3.exe.config
+C:\Users\LUAN\source\repos\2212410_Lab3\bin\Debug\2212410_Lab3.exe
+C:\Users\LUAN\source\repos\2212410_Lab3\bin\Debug\2212410_Lab3.pdb
+C:\Users\LUAN\source\repos\2212410_Lab3\obj\Debug\2212410_Lab3.csproj.AssemblyReference.cache
+C:\Users\LUAN\source\repos\2212410_Lab3\obj\Debug\_2212410_Lab3.frmSinhVien.resources
+C:\Users\LUAN\source\repos\2212410_Lab3\obj\Debug\_2212410_Lab3.Properties.Resources.resources
+C:\Users\LUAN\source\repos\2212410_Lab3\obj\Debug\2212410_Lab3.csproj.GenerateResource.cache
+C:\Users\LUAN\source\repos\2212410_Lab3\obj\Debug\2212410_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\source\repos\2212410_Lab3\obj\Debug\2212410_Lab3.exe
+C:\Users\LUAN\source\repos\2212410_Lab3\obj\Debug\2212410_Lab3.pdb

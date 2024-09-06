@@ -1,0 +1,9 @@
+﻿12345*Nguyen Van A*2000-01-01*123 Main St*12A*image1.jpg*1*Mạng truyền thông,Công nghệ phần mềm
+67890*Tran Thi B*1999-05-15*456 Elm St*12B*image2.jpg*0*Khoa học máy tính,Trí tuệ nhân tạo
+54321*Le Van C*2001-03-22*789 Oak St*12C*image3.jpg*1*Hệ thống thông tin,Tin học ứng dụng
+11223*Pham Thi D*2000-07-30*321 Pine St*12D*image4.jpg*0*Mạng truyền thông,Công nghệ phần mềm
+44556*Hoang Van E*1998-12-10*654 Maple St*12E*image5.jpg*1*Khoa học máy tính,Trí tuệ nhân tạo
+77889*Vu Thi F*2002-04-18*987 Birch St*12F*image6.jpg*0*Hệ thống thông tin,Tin học ứng dụng
+99001*Do Van G*2001-11-25*159 Cedar St*12G*image7.jpg*1*Mạng truyền thông,Công nghệ phần mềm
+22334*Nguyen Thi H*1999-03-05*753 Walnut St*12H*exit.jpg*0*Khoa học máy tính,Trí tuệ nhân tạo
+55667*Tran Van I*2000-08-12*852 Spruce St*12I*in.jpg*1*Hệ thống thông tin,Tin học ứng dụng
